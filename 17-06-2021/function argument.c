@@ -21,4 +21,4 @@ b) Pass(or call) by Reference- it refers to the original data in the calling fun
 OR here both actual and formal parameters refers to same memory location. therefore any changes made to the formal parameters will get changed to actual parameters(here instead of passing values we pass addresse.)
 
 above example is a type of pass by reference 
-here we pass adresses not value*/
+here we pass adresses not value*/ 
