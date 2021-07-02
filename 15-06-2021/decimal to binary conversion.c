@@ -5,7 +5,7 @@ int main()
   printf("Enter decimal number \n");
   scanf("%d", &n);
   printf("%d It's binary number is:\n", n);
-  for (c = 5; c >= 0; c--)
+  for (c = 5; c >= 0; c--) 
   {
     k = n >> c;
     if (k & 1)
