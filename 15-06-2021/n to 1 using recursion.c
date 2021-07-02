@@ -17,4 +17,4 @@ int main()
 }
 /*output
 enter nth number: 5
-54321*/
+54321*/ 
